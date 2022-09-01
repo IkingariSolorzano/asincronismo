@@ -18,6 +18,16 @@
   "author": "Ikingari Solorzano",
   "license": "MIT",
   "dependencies": {
+    "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IkingariSolorzano/asincronismo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IkingariSolorzano/asincronismo/issues"
+  },
+  "homepage": "https://github.com/IkingariSolorzano/asincronismo#readme"
 }

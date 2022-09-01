@@ -3,7 +3,7 @@ const somethingWillHappen = () => {
   //retornar una promesa con dos argumentos (resolve=si se ejecuta, reject=si se rechaza)
   return new Promise((resolve, reject) => {
     //si es verdadero, vamos a devolver hey
-    if (true) {
+    if (false) {
       resolve("Hey!");
     }
     //si no entonces devolvemos wooops
